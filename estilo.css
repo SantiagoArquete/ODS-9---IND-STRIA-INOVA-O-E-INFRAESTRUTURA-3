@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100PX;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+html{
+    
+}
+#Capa{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+
+    background-image: url(https://st4.depositphotos.com/15076736/31308/i/450/depositphotos_313089748-stock-photo-abstract-pastel-soft-colorful-textured.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+    color: black
+}
+#Vídeo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#Desenvolvimento{
+    margin: 0px 200px 0px 200px;
+}
+#Primeiro{
+    font-size: 50px;
+}
+button{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+h2{
+    background-color: orangered;
+}
